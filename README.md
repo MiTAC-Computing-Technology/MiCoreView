@@ -10,4 +10,4 @@ MiCoreView is designed for infrastructure and operations teams that need a singl
 
 ## Contact
 
-If you are interested in MiCoreView, please contact handcock.chang@mictacomputing.com.
+If you are interested in MiCoreView, please contact mcv@mitaccomputing.com.
